@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Victor Jack</h1>
-<h3 align="center">I’m a Game Developer and a Front-End Engineer</h3>
+<h3 align="center">I’m a Game Developer and also a Front-End Web Developer</h3>
 
 <p align="left"> <a href="https://twitter.com/thedon_dev" target="blank"><img src="https://img.shields.io/twitter/follow/thedon_dev?logo=twitter&style=for-the-badge" alt="thedon_dev" /></a> </p>
 
