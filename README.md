@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/thedon_dev" target="blank"><img src="https://img.shields.io/twitter/follow/thedon_dev?logo=twitter&style=for-the-badge" alt="thedon_dev" /></a> </p>
 
-- 🌱 I’m currently learning: **JavaScript**
+- 🌱 I’m currently learning: **ReactJS**
 
 - 💬 Ask me about: **Game Development, Front-End Web Development**
 
