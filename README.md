@@ -26,4 +26,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thedon-dev&show_icons=true&locale=en" alt="thedon-dev" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thedon-dev&" alt="thedon-dev" /></p>
