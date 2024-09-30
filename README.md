@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm Victor jack</h1>
-<h3 align="center">A passionate frontend developer from Nigeria</h3>
+<h1 align="center">Hey I'm Jack Victor Adokiye, I am a tech addict and the true definition of a philomath. I am a software engineer who enjoys bringing ideas to live through coding. I have immersed myself in the world of Game development and Web applications for the past 4 years. Driven by an insatiable curiosity for tech and problem-solving, I'm always eager to explore new frontiers in the world of Tech.</h1>
+<h3 align="center">A passionate Tech Enthusiast from Nigeria</h3>
 
 <p align="left"> <a href="https://twitter.com/iamvictorjack" target="blank"><img src="https://img.shields.io/twitter/follow/iamvictorjack?logo=twitter&style=for-the-badge" alt="iamvictorjack" /></a> </p>
 
