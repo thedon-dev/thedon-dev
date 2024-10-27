@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm Victor</h1>
-<h3 align="center">A passionate web developer from Nigeria</h3>
+<h1 align="center">Hi 👋, I'm Jack Victor</h1>
+<h3 align="center">I am a passionate web developer from Nigeria, I am the true definition of a tech addict and a philomath, I enjoy bringing creative ideas to live with coding.</h3>
 
 - 🔭 I’m currently working on [Stickernator](https://stickernator.com)
 
